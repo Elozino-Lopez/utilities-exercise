@@ -16,4 +16,4 @@ const largeNumber = (arr) => {
     return arr
   }
 
-  module.exports = {largeNumber, cut3}
+  module.exports = {largeNumber, cut3};

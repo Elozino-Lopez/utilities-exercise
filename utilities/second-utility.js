@@ -12,4 +12,4 @@ const sum = (arr) => {
     return [...arr1, ...arr2]
   }
 
-  module.exports = {sum, concat}
+  module.exports = {sum, concat};
